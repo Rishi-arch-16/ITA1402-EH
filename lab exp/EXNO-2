@@ -1,0 +1,10 @@
+touch sample2.txt
+
+vi sample2.txt
+
+ls 
+
+less sample2.txt
+
+more sample2.txt
+
