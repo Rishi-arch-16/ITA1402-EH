@@ -1,0 +1,9 @@
+vi sample2.txt
+
+tree
+
+sample2.txt
+
+head sample2.txt
+
+tail sample2.txt
