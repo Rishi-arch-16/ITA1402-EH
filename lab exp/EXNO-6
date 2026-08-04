@@ -1,0 +1,9 @@
+touch newfile.txt
+
+ls
+
+pwd
+
+wget https://google.com
+
+ls
