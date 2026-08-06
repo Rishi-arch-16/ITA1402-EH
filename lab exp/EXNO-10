@@ -1,0 +1,9 @@
+free-h
+
+touch names.txt
+
+vi names.txt
+
+sort names.txt
+
+history
