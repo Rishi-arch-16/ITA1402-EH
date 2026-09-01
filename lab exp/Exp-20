@@ -1,0 +1,6 @@
+free
+freee -h 
+nano file.txt
+sort file.txt
+sort -r file.txt
+msfvenom --list payloads | head -20
