@@ -1,0 +1,2 @@
+nmap 10.2.15
+sudo nmap -sS 10.0.2.15
